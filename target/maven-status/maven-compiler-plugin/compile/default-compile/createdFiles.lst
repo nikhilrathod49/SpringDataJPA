@@ -1,0 +1,4 @@
+com\javamastery\model\Book.class
+com\javamastery\repository\BookRepository.class
+com\javamastery\controller\BookController.class
+com\javamastery\SpringBootSqlServerApplication.class
